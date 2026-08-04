@@ -1,0 +1,2 @@
+id,image,mask,species,breed,color,L,a,b,pet_pixels,reviewed,notes,split
+Bombay_78,cat/black/images/Bombay_78.jpg,cat/black/masks/Bombay_78.png,cat,Bombay,black,33.29912567138672,12.854196548461914,14.056682586669922,58466,True,,test_ood

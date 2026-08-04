@@ -1,0 +1,2 @@
+id,image,mask,species,breed,color,L,a,b,pet_pixels,reviewed,notes,split
+Persian_47,cat/white/images/Persian_47.jpg,cat/white/masks/Persian_47.png,cat,Persian,white,26.443435668945312,5.906015396118164,-8.40929126739502,93792,True,,test_id

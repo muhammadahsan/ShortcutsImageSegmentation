@@ -1,0 +1,7 @@
+id,image,mask,species,breed,color,L,a,b,pet_pixels,reviewed,notes,split
+Abyssinian_114,cat/brown/images/Abyssinian_114.jpg,cat/brown/masks/Abyssinian_114.png,cat,Abyssinian,brown,11.866287231445312,8.718072891235352,11.621549606323242,57610,True,,train
+Abyssinian_3,cat/brown/images/Abyssinian_3.jpg,cat/brown/masks/Abyssinian_3.png,cat,Abyssinian,brown,29.434101104736328,9.83867073059082,12.98830509185791,101442,True,,train
+Abyssinian_30,cat/brown/images/Abyssinian_30.jpg,cat/brown/masks/Abyssinian_30.png,cat,Abyssinian,brown,17.668651580810547,7.662277698516846,13.341164588928224,51282,True,,train
+Abyssinian_7,cat/brown/images/Abyssinian_7.jpg,cat/brown/masks/Abyssinian_7.png,cat,Abyssinian,brown,23.61365127563477,10.74036979675293,14.726805686950684,21963,True,,train
+Bengal_24,cat/brown/images/Bengal_24.jpg,cat/brown/masks/Bengal_24.png,cat,Bengal,brown,26.743186950683594,10.969765663146973,16.429912567138672,27804,True,,train
+Maine_Coon_163,cat/brown/images/Maine_Coon_163.jpg,cat/brown/masks/Maine_Coon_163.png,cat,Maine_Coon,brown,29.261741638183594,5.092114448547363,13.48024559020996,106861,True,,train

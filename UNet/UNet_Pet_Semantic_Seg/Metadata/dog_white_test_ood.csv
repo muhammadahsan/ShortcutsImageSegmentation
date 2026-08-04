@@ -1,0 +1,10 @@
+id,image,mask,species,breed,color,L,a,b,pet_pixels,reviewed,notes,split
+american_bulldog_151,dog/white/images/american_bulldog_151.jpg,dog/white/masks/american_bulldog_151.png,dog,american_bulldog,white,23.97886657714844,0.2012625336647033,3.3865153789520264,78724,True,,test_ood
+american_bulldog_51,dog/white/images/american_bulldog_51.jpg,dog/white/masks/american_bulldog_51.png,dog,american_bulldog,white,28.61086654663086,1.0383427143096924,2.215301990509033,48046,True,,test_ood
+english_cocker_spaniel_16,dog/white/images/english_cocker_spaniel_16.jpg,dog/white/masks/english_cocker_spaniel_16.png,dog,english_cocker_spaniel,white,28.454362869262695,0.1721829175949096,0.3914833068847656,49750,True,,test_ood
+english_cocker_spaniel_65,dog/white/images/english_cocker_spaniel_65.jpg,dog/white/masks/english_cocker_spaniel_65.png,dog,english_cocker_spaniel,white,28.675891876220703,1.9603371620178225,6.465280055999756,35873,True,,test_ood
+english_setter_184,dog/white/images/english_setter_184.jpg,dog/white/masks/english_setter_184.png,dog,english_setter,white,24.98412322998047,5.764945983886719,9.691548347473145,33556,True,,test_ood
+english_setter_185,dog/white/images/english_setter_185.jpg,dog/white/masks/english_setter_185.png,dog,english_setter,white,25.43912696838379,5.779355525970459,10.105380058288574,19696,True,,test_ood
+english_setter_199,dog/white/images/english_setter_199.jpg,dog/white/masks/english_setter_199.png,dog,english_setter,white,29.873315811157227,7.592365264892578,17.608333587646484,133324,True,,test_ood
+english_setter_43,dog/white/images/english_setter_43.jpg,dog/white/masks/english_setter_43.png,dog,english_setter,white,23.74063491821289,3.540508508682251,12.560194969177246,131211,True,,test_ood
+samoyed_17,dog/white/images/samoyed_17.jpg,dog/white/masks/samoyed_17.png,dog,samoyed,white,26.3743896484375,0.371783971786499,2.5838255882263184,139689,True,,test_ood

@@ -1,0 +1,2 @@
+id,image,mask,species,breed,color,L,a,b,pet_pixels,reviewed,notes,split
+keeshond_9,dog/gray/images/keeshond_9.jpg,dog/gray/masks/keeshond_9.png,dog,keeshond,gray,55.16853332519531,4.139438152313232,14.963388442993164,63637,True,,train

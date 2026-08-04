@@ -1,0 +1,4 @@
+id,image,mask,species,breed,color,L,a,b,pet_pixels,reviewed,notes,split
+Abyssinian_94,cat/brown/images/Abyssinian_94.jpg,cat/brown/masks/Abyssinian_94.png,cat,Abyssinian,brown,27.011737823486328,6.59659481048584,7.729440689086914,51124,True,,test_id
+Maine_Coon_110,cat/brown/images/Maine_Coon_110.jpg,cat/brown/masks/Maine_Coon_110.png,cat,Maine_Coon,brown,29.916309356689453,0.5384087562561035,7.940113544464111,127218,True,,test_id
+Maine_Coon_231,cat/brown/images/Maine_Coon_231.jpg,cat/brown/masks/Maine_Coon_231.png,cat,Maine_Coon,brown,16.052978515625,5.894280910491943,6.355619430541992,23546,True,,test_id

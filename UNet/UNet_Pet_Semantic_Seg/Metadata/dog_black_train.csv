@@ -1,0 +1,5 @@
+id,image,mask,species,breed,color,L,a,b,pet_pixels,reviewed,notes,split
+american_pit_bull_terrier_4,dog/black/images/american_pit_bull_terrier_4.jpg,dog/black/masks/american_pit_bull_terrier_4.png,dog,american_pit_bull_terrier,black,41.142784118652344,6.081998348236084,14.212831497192385,49558,True,,train
+german_shorthaired_176,dog/black/images/german_shorthaired_176.jpg,dog/black/masks/german_shorthaired_176.png,dog,german_shorthaired,black,39.59210968017578,7.014989852905273,12.165623664855955,38810,True,,train
+scottish_terrier_30,dog/black/images/scottish_terrier_30.jpg,dog/black/masks/scottish_terrier_30.png,dog,scottish_terrier,black,38.821285247802734,4.385396957397461,17.239439010620117,107968,True,,train
+staffordshire_bull_terrier_48,dog/black/images/staffordshire_bull_terrier_48.jpg,dog/black/masks/staffordshire_bull_terrier_48.png,dog,staffordshire_bull_terrier,black,57.19979476928711,4.761636257171631,13.093376159667969,23888,True,,train

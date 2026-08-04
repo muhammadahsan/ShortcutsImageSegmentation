@@ -1,0 +1,2 @@
+id,image,mask,species,breed,color,L,a,b,pet_pixels,reviewed,notes,split
+scottish_terrier_146,dog/black/images/scottish_terrier_146.jpg,dog/black/masks/scottish_terrier_146.png,dog,scottish_terrier,black,30.8011474609375,2.1920502185821533,15.227913856506348,71679,True,,test_id

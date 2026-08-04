@@ -1,0 +1,9 @@
+id,image,mask,species,breed,color,L,a,b,pet_pixels,reviewed,notes,split
+german_shorthaired_175,dog/gray/images/german_shorthaired_175.jpg,dog/gray/masks/german_shorthaired_175.png,dog,german_shorthaired,gray,29.406723022460938,3.435537338256836,3.312891721725464,155180,True,,test_ood
+german_shorthaired_52,dog/gray/images/german_shorthaired_52.jpg,dog/gray/masks/german_shorthaired_52.png,dog,german_shorthaired,gray,24.14440155029297,3.1673760414123535,2.806973457336426,54383,True,,test_ood
+keeshond_122,dog/gray/images/keeshond_122.jpg,dog/gray/masks/keeshond_122.png,dog,keeshond,gray,29.5018310546875,-2.9626340866088867,2.843749523162842,113131,True,,test_ood
+keeshond_16,dog/gray/images/keeshond_16.jpg,dog/gray/masks/keeshond_16.png,dog,keeshond,gray,28.851905822753903,-0.4710704088211059,3.1124532222747803,20330,True,,test_ood
+keeshond_184,dog/gray/images/keeshond_184.jpg,dog/gray/masks/keeshond_184.png,dog,keeshond,gray,19.86553192138672,-0.0007599592208862,0.0013649463653564,147562,True,,test_ood
+keeshond_185,dog/gray/images/keeshond_185.jpg,dog/gray/masks/keeshond_185.png,dog,keeshond,gray,24.421321868896484,-0.0007301568984985,0.0016093254089355,184528,True,,test_ood
+keeshond_20,dog/gray/images/keeshond_20.jpg,dog/gray/masks/keeshond_20.png,dog,keeshond,gray,15.96214485168457,0.7347911596298218,0.328722596168518,52098,True,,test_ood
+leonberger_174,dog/gray/images/leonberger_174.jpg,dog/gray/masks/leonberger_174.png,dog,leonberger,gray,23.01831817626953,1.4410018920898438,-3.8647890090942383,74288,True,,test_ood

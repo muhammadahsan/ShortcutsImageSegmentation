@@ -1,0 +1,17 @@
+id,image,mask,species,breed,color,L,a,b,pet_pixels,reviewed,notes,split
+British_Shorthair_104,cat/gray/images/British_Shorthair_104.jpg,cat/gray/masks/British_Shorthair_104.png,cat,British_Shorthair,gray,28.01103973388672,2.3515372276306152,6.684017181396484,104305,True,,test_id
+British_Shorthair_129,cat/gray/images/British_Shorthair_129.jpg,cat/gray/masks/British_Shorthair_129.png,cat,British_Shorthair,gray,18.441734313964844,-0.4999712109565735,-1.2035757303237915,35136,True,,test_id
+British_Shorthair_195,cat/gray/images/British_Shorthair_195.jpg,cat/gray/masks/British_Shorthair_195.png,cat,British_Shorthair,gray,29.42303466796875,-0.5723834037780762,3.746962547302246,85309,True,,test_id
+British_Shorthair_43,cat/gray/images/British_Shorthair_43.jpg,cat/gray/masks/British_Shorthair_43.png,cat,British_Shorthair,gray,23.43387222290039,1.4978200197219849,2.59438157081604,72676,True,,test_id
+British_Shorthair_65,cat/gray/images/British_Shorthair_65.jpg,cat/gray/masks/British_Shorthair_65.png,cat,British_Shorthair,gray,28.851905822753903,0.4864484071731567,-2.6054561138153076,66982,True,,test_id
+British_Shorthair_68,cat/gray/images/British_Shorthair_68.jpg,cat/gray/masks/British_Shorthair_68.png,cat,British_Shorthair,gray,26.68994140625,7.32293701171875,20.28990936279297,44928,True,,test_id
+Persian_72,cat/gray/images/Persian_72.jpg,cat/gray/masks/Persian_72.png,cat,Persian,gray,21.158855438232425,1.8204450607299805,-0.7568478584289551,96868,True,,test_id
+Russian_Blue_148,cat/gray/images/Russian_Blue_148.jpg,cat/gray/masks/Russian_Blue_148.png,cat,Russian_Blue,gray,26.437271118164062,0.0265538692474365,1.6060620546340942,88653,True,,test_id
+Russian_Blue_159,cat/gray/images/Russian_Blue_159.jpg,cat/gray/masks/Russian_Blue_159.png,cat,Russian_Blue,gray,26.91164779663086,1.2228786945343018,-2.688246965408325,57538,True,,test_id
+Russian_Blue_161,cat/gray/images/Russian_Blue_161.jpg,cat/gray/masks/Russian_Blue_161.png,cat,Russian_Blue,gray,25.398277282714844,1.6368180513381958,-2.7321159839630127,61855,True,,test_id
+Russian_Blue_164,cat/gray/images/Russian_Blue_164.jpg,cat/gray/masks/Russian_Blue_164.png,cat,Russian_Blue,gray,29.56258773803711,3.6289095878601074,-2.775394916534424,43009,True,,test_id
+Russian_Blue_199,cat/gray/images/Russian_Blue_199.jpg,cat/gray/masks/Russian_Blue_199.png,cat,Russian_Blue,gray,18.539138793945312,2.999886989593506,2.5664329528808594,71483,True,,test_id
+Russian_Blue_48,cat/gray/images/Russian_Blue_48.jpg,cat/gray/masks/Russian_Blue_48.png,cat,Russian_Blue,gray,19.17414093017578,4.638716697692871,3.704443454742432,92655,True,,test_id
+Russian_Blue_67,cat/gray/images/Russian_Blue_67.jpg,cat/gray/masks/Russian_Blue_67.png,cat,Russian_Blue,gray,29.244400024414062,3.863178253173828,-0.007292628288269,94895,True,,test_id
+Russian_Blue_82,cat/gray/images/Russian_Blue_82.jpg,cat/gray/masks/Russian_Blue_82.png,cat,Russian_Blue,gray,27.215490341186523,-0.2939552068710327,1.3460040092468262,108396,True,,test_id
+Russian_Blue_99,cat/gray/images/Russian_Blue_99.jpg,cat/gray/masks/Russian_Blue_99.png,cat,Russian_Blue,gray,17.780731201171875,0.0024586915969848,2.577352523803711,60691,True,,test_id
