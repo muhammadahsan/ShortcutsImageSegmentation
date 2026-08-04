@@ -26,6 +26,8 @@ We have also uploaded the metadata files used in our experiments. These files pr
 
 ## Checkpoints
 
-## Train/Test
-
+## Running
+- Train
+Run the train script (in case UNet: Unet_ISIC_Seg_Training.ipynb) on each model folders like UNet, Trans-UNet, or Swin-Unet. The batch size we used is 64. If you do not have enough GPU memory, the batch size can be reduced to 16 or 8 to save memory and both can reach similar performance.
+- Test
 
