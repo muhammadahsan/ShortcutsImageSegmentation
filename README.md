@@ -21,9 +21,9 @@ We construct the Black Cats Brown Dogs (BCBD) dataset from the Oxford-IIIT Pet D
 To obtain color-specific subgroups, we first applied an automated color detection pipeline to the segmented animal regions and subsequently verified and corrected the assignments through manual annotation, ensuring reliable color labels. [Cats & Dogs](https://www.robots.ox.ac.uk/~vedaldi/assets/pubs/parkhi12cat.pdf)
 
 ## Metadata
-We have also uploaded the metadata files used in our experiments. These files provide the labels and additional information required to fully reproduce our results.
-- For ISIC metadata:  (/UNet/ISIC_Metadata)
-- For Cats & Dogs metadata: (/UNet/UNet_Pet_Semantic_Seg/Metadata)
+The metadata files used in our experiments are included in this repository. These files contain the labels and supplementary information required to reproduce the experimental results.
+- ISIC metadata: /UNet/ISIC_Metadata
+- Cats & Dogs metadata: /UNet/UNet_Pet_Semantic_Seg/Metadata
 
 ## Checkpoints
 
