@@ -9,6 +9,7 @@ The repository is organized into model-specific directories. Each directory (e.g
 - Utility functions used throughout the experiments
 ## Environment Setup
 We recommend creating a Python 3.7 environment before installing the required dependencies.
+
 pip install -r requirements.txt
 
 ## Prepare data
