@@ -26,6 +26,10 @@ The metadata files used in our experiments are included in this repository. Thes
 - Cats & Dogs metadata: /UNet/UNet_Pet_Semantic_Seg/Metadata
 
 ## Checkpoints
+To download the archive containing all pre-trained model weights from Google Drive
+
+-
+-
 
 ## Running
 Run the train script on each model folders like UNt, Trans-UNet, or Swin-Unet. The batch size we used is 64. If you do not have enough GPU memory, the batch size can be reduced to 16 or 8 to save memory and both can reach similar performance.
