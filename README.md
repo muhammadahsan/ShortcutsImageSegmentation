@@ -1,13 +1,12 @@
 ## Investigating Spurious Cue Sensitivity in Semantic Segmentation
-The code for the work "Investigating Spurious Cue Sensitivity in Semantic Segmentation". Our paper has been accepted as an Oral at ANNPR 2026 (Artificial Neural Networks in Pattern Recognition - 2026). Find the full paper [here](https://github.com/muhammadahsan/ShortcutsImageSegmentation/blob/main/ShortcutsImageSegmentation.pdf). I hope this will help you to reproduce the results. 
+This repository contains the official implementation for our paper, "Investigating Spurious Cue Sensitivity in Semantic Segmentation," which was accepted as an Oral presentation at ANNPR 2026 (Artificial Neural Networks in Pattern Recognition).
+The full paper is available [here](https://github.com/muhammadahsan/ShortcutsImageSegmentation/blob/main/ShortcutsImageSegmentation.pdf). We hope this repository facilitates reproducing our experimental results and serves as a useful resource for future research. 
+## Repository Structure
+The repository is organized into model-specific directories. Each directory (e.g., UNet, Trans-UNet, and Swin-Unet) contains:
 
-The repository is organized into model-specific directories.  
-Each folder (e.g., `UNet, Trans-UNet, or Swin-Unet`) contains:
-
-- training scripts  
-- testing/evaluation scripts
-- utility functions used in the experiments
-
+- Training scripts  
+- Testing & evaluation scripts
+- Utility functions used throughout the experiments
 ## Environment
 Please prepare an environment with python=3.7, and then use the command "pip install -r requirements.txt" for the dependencies.
 
