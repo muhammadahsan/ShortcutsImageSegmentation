@@ -26,7 +26,7 @@ The metadata files used in our experiments are included in this repository. Thes
 - Cats & Dogs metadata: /UNet/UNet_Pet_Semantic_Seg/Metadata
 
 ## Checkpoints
-To download the archive containing all pre-trained model weights (around 10 GB)from Google Drive
+To download the archive containing all pre-trained model weights (around 10 GB) from Google Drive
 
 - All pre-trained model weights are available in the [Google Drive folder](https://drive.google.com/file/d/12aHhrLonTKSGbxLCBq_PEwxTrAkXv7-N/view?usp=drive_link).
 
