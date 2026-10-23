@@ -1,6 +1,6 @@
 # Investigating Spurious Cue Sensitivity in Semantic Segmentation
 This repository contains the official implementation for our paper, "Investigating Spurious Cue Sensitivity in Semantic Segmentation," which was accepted as an Oral presentation at ANNPR 2026 (Artificial Neural Networks in Pattern Recognition).
-The full paper is available [here](https://github.com/muhammadahsan/ShortcutsImageSegmentation/blob/main/ShortcutsImageSegmentation.pdf). We hope this repository facilitates reproducing our experimental results and serves as a useful resource for future research. 
+The full paper is available [here](https://github.com/muhammadahsan/ShortcutsImageSegmentation/blob/main/ANNPR-2026-Submission.pdf). We hope this repository facilitates reproducing our experimental results and serves as a useful resource for future research. 
 ## Repository Structure
 The repository is organized into model-specific directories. Each directory (e.g., UNet, Trans-UNet, and Swin-Unet) contains:
 
